@@ -1,0 +1,8 @@
+site_name: My Docs
+
+nav: 
+  - Maturita CJ: 'maturita.md'
+  - WA 4h: 'wa_4.md'
+
+theme: 
+    name: dracula
